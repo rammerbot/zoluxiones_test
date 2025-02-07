@@ -22,6 +22,8 @@ Este repositorio contiene los avances de la prueba técnica realizada para **Zol
 |── python-scripts
 |   |──list_sorted.py                   # Funcion para ordenar listas y devolver solo los numero pares
 |   |──word_counter.py                  # Funcion para contar cuantas veces se repite cada palabra en un texto
+|   |──factorial.py                     # Funcion para obtener el factorial de cualquier numero entero.
+|   |──API_consult.py                   # Funcion que consulta a una API y guarda el resultado en un Json
 └── README.md                           # Documentación del proyecto
 ```
 
