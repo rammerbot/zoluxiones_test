@@ -16,6 +16,8 @@ Este repositorio contiene los avances de la prueba técnica realizada para **Zol
 ├── plugin/                 # Desarrollo del plugin personalizado
 |   |──                     # Plugin shortcode "Hola mundo"
 |   |──                     # Plugin custom post type "Eventos"
+|   |──                     # Funcion para agregar hoja de estilo personalizada
+|   |──                     # Widget que muestra los últimos tres posts publicados
 └── README.md               # Documentación del proyecto
 ```
 
