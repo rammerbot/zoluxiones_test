@@ -9,6 +9,6 @@ def numeros_pares_ordenados(lista:list):
     if not isinstance(lista, list) or not all(isinstance(num, (int, float)) for num in lista):
         print(f"la estuctura de datos no es adecuada, por favor verifique e intente nuevamente")
         return None
-    return sorted([num for num in lista if num % 2 == 0])
+    return sorted([num for num in lista if num % 2 == 0]) # Usa el sorted para ordenar los numero en la lista y 
 
 
