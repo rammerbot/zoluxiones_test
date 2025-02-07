@@ -13,12 +13,15 @@ Este repositorio contiene los avances de la prueba técnica realizada para **Zol
 ## 📂 Estructura del Repositorio
 
 ```
-├── plugin/                 # Desarrollo del plugin personalizado
-|   |──                     # Plugin shortcode "Hola mundo"
-|   |──                     # Plugin custom post type "Eventos"
-|   |──                     # Funcion para agregar hoja de estilo personalizada
-|   |──                     # Widget que muestra los últimos tres posts publicados
-└── README.md               # Documentación del proyecto
+├── plugins/                             # Desarrollo del plugin personalizado
+|   |──plugin-hola-mundo/               # Plugin shortcode "Hola mundo"
+|   |──plugin-custom-post-types/        # Plugin custom post type "Eventos"
+|   |──custom-style-css/                # Funcion para agregar hoja de estilo personalizada
+|   |──widget-ultimos-post/             # Widget que muestra los últimos tres posts publicados
+|   |──excluir-categoria-especifica/    # Funcion que excluye mediante
+|── python-scripts
+|   |──list_sorted.py                   # Funcion para ordenar listas y devolver solo los numero pares
+└── README.md                           # Documentación del proyecto
 ```
 
 ## 🚀 Instalación y Configuración
