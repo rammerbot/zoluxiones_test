@@ -21,6 +21,7 @@ Este repositorio contiene los avances de la prueba técnica realizada para **Zol
 |   |──excluir-categoria-especifica/    # Funcion que excluye mediante
 |── python-scripts
 |   |──list_sorted.py                   # Funcion para ordenar listas y devolver solo los numero pares
+|   |──word_counter.py                  # Funcion para contar cuantas veces se repite cada palabra en un texto
 └── README.md                           # Documentación del proyecto
 ```
 
